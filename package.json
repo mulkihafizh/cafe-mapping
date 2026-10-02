@@ -1,0 +1,30 @@
+{
+  "name": "greater-bogor-cafe-explorer",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxtjs/supabase": "^1.1.7",
+    "@nuxtjs/tailwindcss": "^6.11.4",
+    "@pinia/nuxt": "^0.5.1",
+    "@tailwindcss/forms": "^0.5.7",
+    "@vueuse/core": "^10.9.0",
+    "@vueuse/nuxt": "^10.9.0",
+    "maplibre-gl": "^4.1.2",
+    "nuxt": "^3.11.1",
+    "nuxt-icon": "^0.6.9",
+    "pinia": "^2.1.7",
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.3",
+    "vue-tsc": "^2.0.7"
+  }
+}

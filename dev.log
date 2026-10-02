@@ -1,0 +1,23 @@
+
+> dev
+> nuxt dev
+
+│
+●  Nuxt 3.21.11 (with Nitro 2.13.4, Vite 7.3.6 and Vue 3.5.43)
+
+  ➜ Local:    http://localhost:3000/
+  ➜ Network:  use --host to expose
+
+[nuxt:tailwindcss] ℹ Using default Tailwind CSS file
+  ➜ DevTools: press Shift + Alt + D in the browser (v3.4.2)
+
+✔ Vite client built in 66ms
+✔ Vite server built in 901ms
+[nitro] ✔ Nuxt Nitro server built in 1589ms
+ℹ Vite server warmed up in 1ms
+ℹ Vite client warmed up in 3ms
+✔ Vite server hmr 1 files in 1520.296ms
+✔ Vite server hmr 1 files in 0.005ms
+✔ Vite server hmr 1 files in 0.003ms
+✔ Vite server hmr 1 files in 0.004ms
+✔ Vite server hmr 2 files in 0.005ms
