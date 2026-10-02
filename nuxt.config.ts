@@ -4,8 +4,14 @@ export default defineNuxtConfig({
     '@pinia/nuxt',
     '@nuxtjs/supabase',
     '@vueuse/nuxt',
-    'nuxt-icon'
+    'nuxt-icon',
+    '@nuxtjs/google-fonts'
   ],
+  googleFonts: {
+    families: {
+      'Plus+Jakarta+Sans': [300, 400, 500, 600, 700]
+    }
+  },
   supabase: {
     redirect: false
   },
